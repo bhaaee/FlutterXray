@@ -13,6 +13,6 @@ go mod download
 
 ```
 
-gomobile bind -v -o android.aar -target=android ./
+gomobile bind -v -o flutterxray.aar -target=android ./
 
 ```
