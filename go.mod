@@ -1,4 +1,4 @@
-module github.com/bhaee/FlutterXray
+module github.com/bhaaee/FlutterXray
 
 go 1.18
 
