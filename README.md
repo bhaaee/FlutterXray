@@ -16,3 +16,11 @@ go mod download
 gomobile bind -v -o flutterxray.aar -target=android ./
 
 ```
+
+ios
+
+```
+
+gomobile bind -v -o flutterxray.framework -target=ios ./
+
+```
