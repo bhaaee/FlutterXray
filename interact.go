@@ -14,7 +14,7 @@ import (
 	"sync"
 	"time"
 
-	"github.com/2dust/AndroidLibXrayLite/VPN"
+	"github.com/bhaaee/FlutterXray/VPN"
 	mobasset "golang.org/x/mobile/asset"
 
 	v2net "github.com/xtls/xray-core/common/net"
