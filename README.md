@@ -9,7 +9,7 @@ go mod download
 
 ```
 
-#compolie to .aar library for android
+# compolie to .aar library for android
 
 ```
 
@@ -17,7 +17,7 @@ gomobile bind -v -o flutterxray.aar -target=android ./
 
 ```
 
-ios
+# compolie to .framework library for ios
 
 ```
 
